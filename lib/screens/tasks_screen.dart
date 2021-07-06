@@ -34,7 +34,7 @@ class TasksScreen extends StatelessWidget {
                 height: 8.0,
               ),
               Text(
-                'You have 3 tasks today!',
+                'You have 7 tasks today!',
                 style: GoogleFonts.roboto(
                   fontSize: 18.0,
                   fontWeight: FontWeight.w300,
